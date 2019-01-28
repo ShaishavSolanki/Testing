@@ -1,2 +1,2 @@
-# Testing
-Automated Testing and API Testing
+Akshar Patel(C0725966)
+Shaishav Solanki(C0730142)
